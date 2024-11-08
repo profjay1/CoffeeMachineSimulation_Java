@@ -1,0 +1,32 @@
+[1;31m
+Start test 1[0m
+8Write action (buy, fill, take, remaining, clean, exit):
+> > remaining
+
+The coffee machine has:
+400 ml of water
+540 ml of milk
+120 g of coffee beans
+9 disposable cups
+$550 of money
+8Write action (buy, fill, take, remaining, clean, exit):
+	> > fill
+,Write how many ml of water you want to add:
+	> > 3000
++Write how many ml of milk you want to add:
+	> > 3000
+6Write how many grams of coffee beans you want to add:
+	> > 3000
+0Write how many disposable cups you want to add:
+	> > 3000
+8Write action (buy, fill, take, remaining, clean, exit):
+> > remaining
+
+The coffee machine has:
+3400 ml of water
+3540 ml of milk
+3120 g of coffee beans
+3009 disposable cups
+$550 of money
+8Write action (buy, fill, take, remaining, clean, exit):
+	> > exit

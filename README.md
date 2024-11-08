@@ -1,0 +1,1 @@
+This application simulates the coffee machine process. These process include managing coffee resources, buying, refilling resources, checking remaining resources, colecting cash acrued, cleaning and putting the machine off.
